@@ -14,7 +14,7 @@ The project implements Hibernate and MySQL for database integration.
 
 • We can add new customers by using the add customer button at the top. It opens a new page where we can fill in the details of the customer.
 
-![add-customer](project-visuals/add-customer.png)
+![add-customer](https://www.dropbox.com/scl/fi/l75y3y24etpysepxloio4/add-customer.png?rlkey=osnfe9au96ei46wl350w7z87v&dl=0)
 
 • There is also the functionality of updating the existing data of customers.
 
